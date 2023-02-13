@@ -1,0 +1,10 @@
+body{
+	align-content: center;
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+.img-fluid{
+	display: inline-block;
+	flex-basis: 25%
+	text-align: right;
+}
